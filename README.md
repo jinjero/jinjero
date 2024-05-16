@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p>
+  <a href="https://jinjero.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:jintojero@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!--
 **jinjero/jinjero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
